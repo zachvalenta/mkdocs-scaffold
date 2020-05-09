@@ -10,3 +10,7 @@ code block
     ]
 }
 ```
+
+image
+
+![Screenshot](img/cloud.jpg)

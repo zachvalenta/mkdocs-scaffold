@@ -5,5 +5,5 @@ markdown_extensions:
   - codehilite
 nav:
   - Home: index.md
-  - Markdown Examples: markdown.md
+  - Examples: examples.md
   # todo: image, video, screen recording
