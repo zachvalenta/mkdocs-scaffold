@@ -1,6 +1,9 @@
 site_name: scaffold
 theme:
   name: 'material'
+markdown_extensions:
+  - codehilite
 nav:
   - Home: index.md
-  - About: about.md
+  - Markdown Examples: markdown.md
+  # todo: image, video, screen recording
