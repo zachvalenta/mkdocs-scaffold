@@ -2,7 +2,9 @@ site_name: scaffold
 theme:
   name: 'material'
 markdown_extensions:
-  - codehilite
+  - codehilite  # code blocks
+  - admonition  # notes
+  - pymdownx.mark  # highlights
 nav:
   - Home: index.md
   - Examples: examples.md
