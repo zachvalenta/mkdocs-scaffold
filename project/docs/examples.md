@@ -13,4 +13,7 @@ code block
 
 image
 
-![Screenshot](img/cloud.jpg)
+![image-file](img/cloud.jpg)
+
+svg
+![svg-file](img/sample.svg)

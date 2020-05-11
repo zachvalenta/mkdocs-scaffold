@@ -6,4 +6,3 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Examples: examples.md
-  # todo: image, video, screen recording
