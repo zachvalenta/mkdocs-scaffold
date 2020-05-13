@@ -8,6 +8,7 @@ authors = ["zachvalenta <zjv5002@gmail.com>"]
 python = "^3.6"
 mkdocs = "^1.1"
 mkdocs-material = "^4.6.3"
+termtosvg = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 

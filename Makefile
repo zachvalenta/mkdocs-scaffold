@@ -8,6 +8,7 @@ help:
 	@echo
 	@echo "serve:      serve docs site"
 	@echo "home:       open docs site in browser"
+	@echo "rec:        record terminal"
 	@echo "install:    install deps"
 	@echo
 	@echo "📦 DEPENDENCIES"
@@ -27,6 +28,9 @@ serve:
 
 home:
 	open http://127.0.0.1:8000
+
+home:
+	poetry run termtosvg
 
 install:
 	poetry run pip install -U setuptools && poetry install
