@@ -29,7 +29,7 @@ serve:
 home:
 	open http://127.0.0.1:8000
 
-home:
+rec:
 	poetry run termtosvg
 
 install:
